@@ -1,6 +1,6 @@
 # Hydraulic_Systems_class
--> Importing data 
--> EDA (Making data frame)
+1.-> Importing data 
+2.-> EDA (Making data frame)
 -> Rename column
 -> Export a Dataset
 --> use Exported dataframe
